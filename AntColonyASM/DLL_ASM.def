@@ -1,0 +1,10 @@
+LIBRARY "AntColonyASM"
+EXPORTS 
+GetDistancesASM
+GetDistances256ASM
+ClearTrails256ASM
+CalculateCityNumberASM
+AddContributionsToTrails
+UpdateEvaporationASM
+ChangeFloat
+UpdateTrails

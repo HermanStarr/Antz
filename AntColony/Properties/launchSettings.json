@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AntColony": {
+      "commandName": "Project",
+      "nativeDebugging": true
+    }
+  }
+}
